@@ -7,7 +7,7 @@ public class FollowPlayer : MonoBehaviour
     [SerializeField] private GameObject player, view;
 
 
-    // hello
+   
 
     // Start is called before the first frame update
     void Start()
