@@ -3,12 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nath\\documents\\github\\projet-3d-running\\3drunning\\3d-training\\assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\script\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|c:\\users\\nath\\documents\\github\\projet-3d-running\\3drunning\\3d-training\\assets\\script\\monsterpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monsterpatrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|c:\\users\\nath\\documents\\github\\projet-3d-running\\3drunning\\3d-training\\assets\\script\\lifesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\lifesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\assets\\script\\interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interfaces\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\assets\\script\\dmgwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\dmgwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\assets\\script\\interfaces\\icollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interfaces\\icollectable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\assets\\script\\interfaces\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\interfaces\\itemcollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\assets\\script\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\followplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\assets\\script\\mineralgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\mineralgain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\assets\\script\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\assets\\script\\controller\\jewelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controller\\jewelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\assets\\script\\controller\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48CECE7D-E69E-05D9-FA10-B618118C1D59}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\controller\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +59,136 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "playerController.cs",
-              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\playerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\playerController.cs",
-              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\playerController.cs",
-              "RelativeToolTip": "Assets\\Script\\playerController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Title": "MonsterPatrol.cs",
+              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\MonsterPatrol.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MonsterPatrol.cs",
+              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\MonsterPatrol.cs",
+              "RelativeToolTip": "Assets\\Script\\MonsterPatrol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T11:00:39.549Z",
+              "WhenOpened": "2024-10-15T06:48:04.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Interfaces\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Interfaces\\IDamageable.cs",
+              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Interfaces\\IDamageable.cs",
+              "RelativeToolTip": "Assets\\Script\\Interfaces\\IDamageable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:05:04.137Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "LifeSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\LifeSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\LifeSystem.cs",
+              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\LifeSystem.cs",
+              "RelativeToolTip": "Assets\\Script\\LifeSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:04:00.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "FollowPlayer.cs",
               "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\FollowPlayer.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\FollowPlayer.cs",
               "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\FollowPlayer.cs",
               "RelativeToolTip": "Assets\\Script\\FollowPlayer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T04:43:35.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemCollector.cs",
+              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Interfaces\\ItemCollector.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Interfaces\\ItemCollector.cs",
+              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Interfaces\\ItemCollector.cs",
+              "RelativeToolTip": "Assets\\Script\\Interfaces\\ItemCollector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:40:32.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JewelController.cs",
+              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Controller\\JewelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Controller\\JewelController.cs",
+              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Controller\\JewelController.cs",
+              "RelativeToolTip": "Assets\\Script\\Controller\\JewelController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-01T04:41:02.128Z"
+              "WhenOpened": "2024-10-08T08:30:07.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICollectable.cs",
+              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Interfaces\\ICollectable.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Interfaces\\ICollectable.cs",
+              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Interfaces\\ICollectable.cs",
+              "RelativeToolTip": "Assets\\Script\\Interfaces\\ICollectable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:22:15.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MineralGain.cs",
+              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\MineralGain.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\MineralGain.cs",
+              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\MineralGain.cs",
+              "RelativeToolTip": "Assets\\Script\\MineralGain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T04:09:28.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DmgWork.cs",
+              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\DmgWork.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\DmgWork.cs",
+              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\DmgWork.cs",
+              "RelativeToolTip": "Assets\\Script\\DmgWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:09:54.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Spawner.cs",
+              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Script\\Spawner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:10:13.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "playerController.cs",
+              "DocumentMoniker": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Controller\\playerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Controller\\playerController.cs",
+              "ToolTip": "C:\\Users\\Nath\\Documents\\GitHub\\Projet-3D-running\\3DRunning\\3D-TRAINING\\Assets\\Script\\Controller\\playerController.cs",
+              "RelativeToolTip": "Assets\\Script\\Controller\\playerController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwFYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T11:52:57.314Z"
             }
           ]
         }
